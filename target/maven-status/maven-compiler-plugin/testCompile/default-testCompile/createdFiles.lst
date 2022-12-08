@@ -1,0 +1,3 @@
+com\cucumber\test\StepDef.class
+com\cucumber\test\CucumberRunnerFile.class
+com\regression\SmokeTest.class
